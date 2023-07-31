@@ -4,5 +4,6 @@ public class Main
 	{
 		System.out.println("Janani Chamodya");
 		System.out.println("BSc (Hons) in Computer Networks");
+		System.out.println("BSc honors Computer Science");
 	}
 }
